@@ -1,0 +1,4 @@
+{
+	"/cities/:cityId/:page": "/cities/:cityId/pages?name=:page",
+	"/cities/:cityId/pages": "/cities/:cityId/pages"
+}

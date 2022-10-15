@@ -1,0 +1,51 @@
+{
+	"cities": [
+		{
+			"id": 1,
+			"name": "mostar",
+			"title": "Genocide: Mostar",
+			"pages": [
+				{
+					"name": "introduction",
+					"title": "Introduction",
+					"img": "/most.jpeg",
+					"img_alt": "slika starog mosta",
+					"body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel laudantium praesentium debitis accusantium tempora saepe similique ipsum provident molestias aperiam at aut expedita corporis soluta consequuntur temporibus earum "
+				},
+				{
+					"name": "what-happened",
+					"title": "What Happened",
+					"img": "/most.jpeg",
+					"img_alt": "slika starog mosta",
+					"body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel laudantium praesentium debitis accusantium tempora saepe similique ipsum provident molestias aperiam at aut expedita corporis soluta consequuntur temporibus earum "
+				},
+				{
+					"name": "stories",
+					"title": "Stories"
+				},
+				{
+					"name": "victims",
+					"title": "Victims",
+					"img": "/most.jpeg",
+					"img_alt": "slika starog mosta",
+					"body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel laudantium praesentium debitis accusantium tempora saepe similique ipsum provident molestias aperiam at aut expedita corporis soluta consequuntur temporibus earum "
+				},
+				{
+					"name": "post-war",
+					"title": "Post War",
+					"img": "/most.jpeg",
+					"img_alt": "slika starog mosta",
+					"body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel laudantium praesentium debitis accusantium tempora saepe similique ipsum provident molestias aperiam at aut expedita corporis soluta consequuntur temporibus earum "
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "visegrad",
+			"title": "Genocide: Višegrad",
+			"img": "/visegrad.jpg",
+			"img_alt": "slika starog mosta",
+			"body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel laudantium praesentium debitis accusantium tempora saepe similique ipsum provident molestias aperiam at aut expedita corporis soluta consequuntur temporibus earum "
+		}
+	]
+}

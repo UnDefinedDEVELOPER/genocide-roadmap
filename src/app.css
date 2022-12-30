@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow-x: none;
+}
+
+body {
+	font-size: 18px;
+	background: #1c1917;
+	color: #e2e8f0;
+	min-height: 100vh;
+}
+
+p {
+	font-size: 1.35rem;
+	margin-bottom: 2rem;
+}
+
+img {
+	max-width: 50%;
+	margin: 0 auto 2rem auto;
+}
